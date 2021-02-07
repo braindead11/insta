@@ -3,7 +3,7 @@
 #FollowSploit v1.2
 # published by @anonymous group
 # IG - not defines 
-#https://github.com/termux-tools/igfollow
+#https://github.com/braindead11/insta
 #########
 red='\033[1;31m'
 rset='\033[0m'
